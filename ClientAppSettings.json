@@ -37,8 +37,6 @@
   "FFlagEnableQuickGameLaunch": true,
   "FFlagEnableCommandAutocomplete": false,
   "FIntDebugForceMSAASamples": 4,
-  "FFlagDebugGraphicsPreferVulkan": true,
-  "FFlagDebugGraphicsDisableDirect3D11": true,
   "DFFlagDebugRenderForceTechnologyVoxel": true,
   "DFFlagDisableDPIScale": true,
   "FFlagDisableNewIGMinDUA": true,
