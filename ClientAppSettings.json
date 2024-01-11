@@ -35,5 +35,7 @@
   "FFlagDebugDisableTelemetryV2Stat": true,
   "DFStringHttpPointsReporterUrl": "null",
   "DFStringAltHttpPointsReporterUrl": "null",
-  "DFStringAnalyticsEventStreamUrlEndpoint": "null"
+  "DFStringAnalyticsEventStreamUrlEndpoint": "null",
+  "FFlagEnableMenuModernizationABTest2": false,
+  "FFlagEnableV3MenuABTest3": false
 }
