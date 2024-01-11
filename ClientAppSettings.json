@@ -49,4 +49,8 @@
   "FFlagEnableMenuModernizationABTest2": false,
   "FFlagEnableV3MenuABTest3": false,
   "FFlagFixGraphicsQuality": true,
+  "DFIntS2PhysicsSenderRate": 100
+  "FFlagAdServiceEnabled": false,
+  "DFStringTelegrafAddress": "127.0.0.1",
+  "DFStringAltTelegrafAddress": "127.0.0.1",
 }
