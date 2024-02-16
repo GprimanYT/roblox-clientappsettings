@@ -9,6 +9,7 @@
     "FFlagDebugDisableTelemetryV2Counter": "True",
     "FFlagDebugDisableTelemetryV2Event": "True",
     "FFlagDebugDisableTelemetryV2Stat": "True",
+	"DFFlagDebugRenderForceTechnologyVoxel": "True",
 	"DFIntTextureQualityOverride": "3",
 	"DFIntDebugFRMQualityLevelOverride": "1",
 	"DFIntTaskSchedulerTargetFps": "99999",
