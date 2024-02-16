@@ -13,7 +13,7 @@
 	"DFIntTaskSchedulerTargetFps": "99999",
 	"FIntCameraMaxZoomDistance": "99999",
 	"DFIntConnectionMTUSize": "900",
-	"FIntTerrainArraySliceSize": "64",
+	"FIntTerrainArraySliceSize": "16",
 	"FIntFRMMinGrassDistance": "0",
 	"FIntFRMMaxGrassDistance": "0",
 	"FIntRenderGrassDetailStrands": "0",
