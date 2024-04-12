@@ -10,7 +10,7 @@
   "FFlagDebugDisableTelemetryV2Event": "True",
   "FFlagDebugDisableTelemetryV2Stat": "True",
   "DFFlagDebugRenderForceTechnologyVoxel": "True",
-  "DFIntTaskSchedulerTargetFps": "99999",
+  "DFIntTaskSchedulerTargetFps": "999",
   "DFIntConnectionMTUSize": "900",
   "FIntTerrainArraySliceSize": "32",
   "DFIntTextureQualityOverride": "3",
